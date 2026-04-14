@@ -1,0 +1,44 @@
+
+.cajaEventoUnirse{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.uniendose{
+    width: 150px;
+    height: auto;
+    font-size: 20px;
+    font-family: 'calibrí';
+    border-radius: 10px;
+    border:none;
+    background-color: #c59a4b;
+    color: #fff;
+    cursor:pointer;
+    align-items: bottom;
+}
+.abandonando{
+    width: 150px;
+    height: auto;
+    font-size: 20px;
+    font-family: 'calibrí';
+    border-radius: 10px;
+    border:none;
+    background-color: #7c2019;
+    color: #fff;
+    cursor:pointer;
+    align-items: bottom;
+}
+.unirse{
+    width: 50%;
+    height: auto;
+    font-size: 20px;
+    font-family: 'calibrí';
+    border:none;
+    color: #252525;
+    cursor:pointer;
+    align-items: bottom;
+    padding-left: 15px;
+}
