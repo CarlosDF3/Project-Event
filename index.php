@@ -54,8 +54,8 @@ $eventos = listarEventos($texto);
   <meta name="author" content="TemplateMo">
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-  <link rel="icon" href="icon.png">
-  <title>Proyecto DAW</title>
+  <link rel="icon" href="imagenes_proyecto/favicon.png">
+  <title>Project Event</title>
 
   <!-- Bootstrap -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
